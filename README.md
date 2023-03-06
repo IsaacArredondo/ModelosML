@@ -1,5 +1,7 @@
 # ModelosML
 
+En este repositorio realizare cada uno de los siguientes modelos de aprendizaje automatico con diferentes aplicaciones, por ejemplo, recommender system in e-commerce, disease diagnosis systems for health, stock market predictions for business, self-driving vehicles for tech, industrial robotics in Industry, etc. The algorith will depended on the problem trying to solve.
+
 Aprendizaje supervisado:
 - Regresión lineal
 - Regresión logística
