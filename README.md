@@ -36,6 +36,9 @@ Procesamiento de lenguaje natural:
 - Modelos de atención
 - Redes neuronales recurrentes (RNN) y LSTM para el procesamiento de secuencias
 
+Aprendizaje por Reforzamiento:
+- Q-learning
+
 Herramientas y tecnologías:
 - Bibliotecas de aprendizaje automático como TensorFlow, PyTorch y Scikit-learn
 - Bases de datos NoSQL y Big Data como Hadoop y Spark
