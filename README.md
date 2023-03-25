@@ -38,6 +38,9 @@ Procesamiento de lenguaje natural:
 - Modelos de atención
 - Redes neuronales recurrentes (RNN) y LSTM para el procesamiento de secuencias
 
+Métodos de Emsamble
+- 
+
 Aprendizaje por Reforzamiento:
 - Q-learning
 
