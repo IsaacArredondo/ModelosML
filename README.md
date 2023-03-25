@@ -39,7 +39,6 @@ Procesamiento de lenguaje natural:
 - Redes neuronales recurrentes (RNN) y LSTM para el procesamiento de secuencias
 
 Métodos de Emsamble
-- 
 
 Aprendizaje por Reforzamiento:
 - Q-learning
